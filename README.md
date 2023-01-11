@@ -41,4 +41,4 @@ This project is split up into six main sections.
 
 <b>5.Evaluation Of Results</b>: The aim of this section is to compare, contrast and critique my results with reference to the literature.
 
-<b>5.Evaluation Of Results</b>: The aim of this section is to discuss and investigate how the dataset could be extended by using data synthesis of new tumour datapoints. I discussed three possible methods to synthesise our data.
+<b>6.Synthesising The Data</b>: The aim of this section is to discuss and investigate how the dataset could be extended by using data synthesis of new tumour datapoints. I discussed three possible methods to synthesise our data.
